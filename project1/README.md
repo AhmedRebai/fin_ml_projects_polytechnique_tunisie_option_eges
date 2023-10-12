@@ -320,26 +320,27 @@ Show how to backtest your trading strategies using the Backtrader library. Discu
 
 ** Code Example (using a backtesting library, e.g., Backtrader):
 
-<head>
-<body>
-<py-script>
+
 
 ###  Implement a backtesting framework to simulate the trading strategy
+
 import backtrader as bt
+
 class MyStrategy(bt.Strategy):
+
     #### Define your strategy logic here
 
 cerebro = bt.Cerebro()
+
 cerebro.addstrategy(MyStrategy)
+
 data = bt.feeds.PandasData(dataname=dataframe)
+
 cerebro.adddata(data)
+
 cerebro.run()
+
 cerebro.plot()
-
-</py-script>
-</body>
-</head>
-
 
 ## Live trading
 
