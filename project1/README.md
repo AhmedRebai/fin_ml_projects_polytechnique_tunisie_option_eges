@@ -189,7 +189,7 @@ Feature extraction transforms raw financial data into a set of informative featu
 
 Present the mathematical models you mentioned (multilinear regression, k-Nearest Neighbors, decision trees, random forests, XGBoost, deep learning with LSTM and transformers). Provide code examples for training and testing these models.
 
-n this phase of the project, we will delve into the application of various mathematical models to fulfill the objectives of the financial project. We will explore the role of each machine learning algorithm, both in regression and classification tasks, to aid in trading signal generation and portfolio optimization.
+In this phase of the project, we will delve into the application of various mathematical models to fulfill the objectives of the financial project. We will explore the role of each machine learning algorithm, both in regression and classification tasks, to aid in trading signal generation and portfolio optimization.
 Regression Models:
 
 Regression models are used to predict a continuous target variable, such as stock prices or returns. Here, we will discuss the role and application of specific algorithms in regression tasks.
