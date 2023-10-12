@@ -1,4 +1,4 @@
-# Step of the project 1:
+# Steps of the project 1:
 
 We will follow the IBM Master plan methodology "The Foundational Methodology":
 
@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=t_Rp8rMeYBk
 
 # 1 - Business Understanding:
 
-    In this section, provide an introduction to algorithmic trading in the Forex markets. Explain the relevance and importance of the project.
+In this section, provide an introduction to algorithmic trading in the Forex markets. Explain the relevance and importance of the project.
 
 
 ## Project Overview:
@@ -32,19 +32,19 @@ In Phase 1, we will focus on one specific currency pair within the basket. The g
 ## Phase 2: Portfolio Allocation:
 In Phase 2, we will delve into portfolio management techniques to optimize the allocation of capital across the basket of currency pairs. Three portfolio allocation methods will be explored:
 
-    Markowitz Portfolio Method: This classic approach aims to construct portfolios that maximize returns for a given level of risk. It is based on the principles of diversification and risk-reward trade-offs.
+* Markowitz Portfolio Method: This classic approach aims to construct portfolios that maximize returns for a given level of risk. It is based on the principles of diversification and risk-reward trade-offs.
 
-    Equally Risk Parity: This method allocates capital to assets to ensure an equal contribution to portfolio risk. It offers a balanced risk exposure across the basket.
+* Equally Risk Parity: This method allocates capital to assets to ensure an equal contribution to portfolio risk. It offers a balanced risk exposure across the basket.
 
-    Hierarchical Risk Parity (HRP) and HERC: These innovative methods use hierarchical clustering techniques to create portfolios that are resilient to market shocks and provide an optimal risk allocation.
+* Hierarchical Risk Parity (HRP) and HERC: These innovative methods use hierarchical clustering techniques to create portfolios that are resilient to market shocks and provide an optimal risk allocation.
 
 ## Project Goals:
 
-    Develop an in-depth understanding of the Forex market, currency pairs, and their interdependencies.
-    Master data collection using MetaTrader 5, with a comprehensive dataset covering various time granularities.
-    Create and test trading algorithms to identify alpha signals and trading opportunities.
-    Implement and evaluate portfolio allocation methods to optimize risk and return for the basket of currency pairs.
-    Achieve a practical, implementable trading strategy that can be deployed for real trading, with an emphasis on robust risk management.
+* Develop an in-depth understanding of the Forex market, currency pairs, and their interdependencies.
+* Master data collection using MetaTrader 5, with a comprehensive dataset covering various time granularities.
+* Create and test trading algorithms to identify alpha signals and trading opportunities.
+* Implement and evaluate portfolio allocation methods to optimize risk and return for the basket of currency pairs.
+* Achieve a practical, implementable trading strategy that can be deployed for real trading, with an emphasis on robust risk management.
 
 ## Educational Value:
 This project aims to provide a valuable learning experience for engineering students, helping them gain hands-on experience in quantitative finance, algorithmic trading, and portfolio optimization. It equips them with the skills and knowledge needed to tackle real-world financial challenges, making them well-prepared for careers in the finance and technology sectors.
@@ -53,44 +53,44 @@ By progressing through these project phases, students will gain a deep understan
 
 # 2 - Analytic Approach:
 
-    Describe the approach you will take to solve the problem. This could include an overview of the data science and machine learning techniques you plan to use.
+Describe the approach you will take to solve the problem. This could include an overview of the data science and machine learning techniques you plan to use.
 
 # 3 - Data Requirements:
 
-    List the data you need for your project, such as historical Forex market data, currency pair prices, and any other relevant data sources.
+List the data you need for your project, such as historical Forex market data, currency pair prices, and any other relevant data sources.
 
 # 4 - Data Collection:
 
-    Show how to collect data for your project. You might want to provide Python code examples for data retrieval, using libraries like Pandas or APIs for financial data.
+Show how to collect data for your project. You might want to provide Python code examples for data retrieval, using libraries like Pandas or APIs for financial data.
 
 # 5 - Data Understanding:
 
-    Utilize econometric tools, time series analysis, and statistical tests to explore the data. Provide code examples for performing these tasks.
+Utilize econometric tools, time series analysis, and statistical tests to explore the data. Provide code examples for performing these tasks.
 
 # 6 - Data Preparation:
 
-    Discuss data preprocessing steps, including data cleaning, missing value handling, and feature scaling.
+Discuss data preprocessing steps, including data cleaning, missing value handling, and feature scaling.
 
 # 7 - Features Extraction:
 
-    Explain how to extract relevant features from the data, which will be used as inputs for your machine learning models.
+Explain how to extract relevant features from the data, which will be used as inputs for your machine learning models.
 
 # 8 - Modeling:
 
-    Present the mathematical models you mentioned (multilinear regression, k-Nearest Neighbors, decision trees, random forests, XGBoost, deep learning with LSTM and transformers). Provide code examples for training and testing these models.
+Present the mathematical models you mentioned (multilinear regression, k-Nearest Neighbors, decision trees, random forests, XGBoost, deep learning with LSTM and transformers). Provide code examples for training and testing these models.
 
 # 9 - Model Evaluation:
 
-    Describe the evaluation metrics you'll use to assess the performance of your models. Present results for each model, including accuracy, precision, recall, etc.
+Describe the evaluation metrics you'll use to assess the performance of your models. Present results for each model, including accuracy, precision, recall, etc.
 
 # 10 - Inserting Models into a Trading Strategy:
 
-    Explain how to integrate the machine learning models into a trading strategy. Provide code for generating trade signals based on model predictions.
+Explain how to integrate the machine learning models into a trading strategy. Provide code for generating trade signals based on model predictions.
 
 # 11 - Backtesting:
 
-    Show how to backtest your trading strategies using the Backtrader library. Discuss the performance of your strategies.
+Show how to backtest your trading strategies using the Backtrader library. Discuss the performance of your strategies.
 
 # 12 - Deployment with Flask and Dash-Plotly:
 
-    Describe how to deploy your model and trading strategy using Flask and Dash-Plotly. This may include creating a web application for live trading or strategy monitoring.
+Describe how to deploy your model and trading strategy using Flask and Dash-Plotly. This may include creating a web application for live trading or strategy monitoring.
