@@ -4,6 +4,10 @@ We will follow the IBM Master plan methodology "The Foundational Methodology":
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/1b2c0de7-05da-4872-8060-b5e1be3ca7b3)
 
+My video that explains the implementation of this data science methdology: 
+
+https://www.youtube.com/watch?v=t_Rp8rMeYBk
+
 
 
 # 1 - Business Understanding:
