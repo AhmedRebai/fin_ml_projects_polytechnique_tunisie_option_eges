@@ -1,4 +1,4 @@
-# Steps of the project 1:
+# Steps of the project 1: Implementing a systematic strategy in the FX market (alpha signals research and dynamic diversification)
 
 We will follow the IBM Master plan methodology "The Foundational Methodology":
 
