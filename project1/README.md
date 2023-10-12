@@ -320,6 +320,8 @@ Show how to backtest your trading strategies using the Backtrader library. Discu
 
 ** Code Example (using a backtesting library, e.g., Backtrader):
 
+<head>
+<body>
 <py-script>
 
 ###  Implement a backtesting framework to simulate the trading strategy
@@ -335,6 +337,8 @@ cerebro.run()
 cerebro.plot()
 
 </py-script>
+</body>
+</head>
 
 
 ## Live trading
