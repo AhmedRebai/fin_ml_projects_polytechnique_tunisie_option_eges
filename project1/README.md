@@ -14,6 +14,43 @@ https://www.youtube.com/watch?v=t_Rp8rMeYBk
 
     In this section, provide an introduction to algorithmic trading in the Forex markets. Explain the relevance and importance of the project.
 
+
+## Project Overview:
+
+In the realm of quantitative finance, the project's objective is to develop an algorithmic trading strategy for the Forex (FX) market, focusing on a basket of currency pairs, namely EURUSD, USDJPY, USDGBP, and USDCHF. This project aims to harness financial data and quantitative techniques to generate trading signals and optimize portfolio allocation for potential profitability.
+
+## Forex Market Significance:
+
+The Forex market is the largest financial market globally, with daily trading volumes exceeding trillions of dollars. Currency pairs are constantly influenced by various economic, geopolitical, and macroeconomic factors. Algorithmic trading in this market offers a unique opportunity to exploit price discrepancies and market inefficiencies efficiently.
+
+## Data Collection:
+The project's first phase involves obtaining historical market data with time granularities ranging from 1 minute to daily, spanning three years from October 12, 2023. Data collection will be facilitated through the MetaTrader 5 (MT5) software, enabling access to reliable real-time data. This data will serve as the foundation for generating alpha signals.
+
+## Phase 1: Alpha Signal Generation:
+In Phase 1, we will focus on one specific currency pair within the basket. The goal is to design and implement trading algorithms capable of identifying alpha signals, which are market insights that can potentially lead to profitable trades. These signals may arise from technical, fundamental, or quantitative analyses. Successful signal generation is crucial, as it is the basis for any profitable trading strategy.
+
+## Phase 2: Portfolio Allocation:
+In Phase 2, we will delve into portfolio management techniques to optimize the allocation of capital across the basket of currency pairs. Three portfolio allocation methods will be explored:
+
+    Markowitz Portfolio Method: This classic approach aims to construct portfolios that maximize returns for a given level of risk. It is based on the principles of diversification and risk-reward trade-offs.
+
+    Equally Risk Parity: This method allocates capital to assets to ensure an equal contribution to portfolio risk. It offers a balanced risk exposure across the basket.
+
+    Hierarchical Risk Parity (HRP) and HERC: These innovative methods use hierarchical clustering techniques to create portfolios that are resilient to market shocks and provide an optimal risk allocation.
+
+## Project Goals:
+
+    Develop an in-depth understanding of the Forex market, currency pairs, and their interdependencies.
+    Master data collection using MetaTrader 5, with a comprehensive dataset covering various time granularities.
+    Create and test trading algorithms to identify alpha signals and trading opportunities.
+    Implement and evaluate portfolio allocation methods to optimize risk and return for the basket of currency pairs.
+    Achieve a practical, implementable trading strategy that can be deployed for real trading, with an emphasis on robust risk management.
+
+## Educational Value:
+This project aims to provide a valuable learning experience for engineering students, helping them gain hands-on experience in quantitative finance, algorithmic trading, and portfolio optimization. It equips them with the skills and knowledge needed to tackle real-world financial challenges, making them well-prepared for careers in the finance and technology sectors.
+
+By progressing through these project phases, students will gain a deep understanding of algorithmic trading strategies, portfolio management, and the quantitative finance domain, thereby enhancing their expertise and practical problem-solving capabilities.
+
 # 2 - Analytic Approach:
 
     Describe the approach you will take to solve the problem. This could include an overview of the data science and machine learning techniques you plan to use.
