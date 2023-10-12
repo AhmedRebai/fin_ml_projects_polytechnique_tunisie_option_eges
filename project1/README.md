@@ -226,33 +226,33 @@ Classification Models:
 
 Classification models are used to predict categorical outcomes, such as whether to buy, sell, or hold a particular asset. Here, we will discuss the role and application of specific algorithms in classification tasks.
 
-1. k-Nearest Neighbors (KNN):
+## 1. k-Nearest Neighbors (KNN):
 
-    Role: KNN can be adapted for classification tasks by determining the most common class among the k-nearest neighbors. It can be used for sentiment analysis and market sentiment classification based on textual data.
+* Role: KNN can be adapted for classification tasks by determining the most common class among the k-nearest neighbors. It can be used for sentiment analysis and market sentiment classification based on textual data.
 
-2. Decision Trees:
+## 2. Decision Trees:
 
-    Role: Decision trees are valuable for classification tasks, such as categorizing assets into buy, sell, or hold classes based on technical and fundamental indicators.
+* Role: Decision trees are valuable for classification tasks, such as categorizing assets into buy, sell, or hold classes based on technical and fundamental indicators.
 
-3. Random Forests:
+## 3. Random Forests:
 
-    Role: Random forests excel in classification tasks, particularly when dealing with imbalanced datasets. They can be used to classify assets into different investment categories or risk levels.
+* Role: Random forests excel in classification tasks, particularly when dealing with imbalanced datasets. They can be used to classify assets into different investment categories or risk levels.
 
-4. XGBoost:
+## 4. XGBoost:
 
-    Role: XGBoost's classification capabilities make it a powerful tool for tasks like identifying market regimes or classifying trading signals into actionable categories.
+* Role: XGBoost's classification capabilities make it a powerful tool for tasks like identifying market regimes or classifying trading signals into actionable categories.
 
-5. Deep Learning with LSTM (Long Short-Term Memory):
+## 5. Deep Learning with LSTM (Long Short-Term Memory):
 
-    Role: LSTMs can be applied to sentiment analysis and market sentiment classification using textual data from news and social media sources.
+* Role: LSTMs can be applied to sentiment analysis and market sentiment classification using textual data from news and social media sources.
 
-6. Transformers:
+## 6. Transformers:
 
-    Role: Transformers can be employed for classification tasks involving market sentiment analysis and trend classification in financial time series data.
+* Role: Transformers can be employed for classification tasks involving market sentiment analysis and trend classification in financial time series data.
 
-7. Ensemble Methods:
+## 7. Ensemble Methods:
 
-    Role: In both regression and classification, ensemble methods, such as AdaBoost or Gradient Boosting, can be used to combine the strengths of multiple models and enhance predictive performance
+* Role: In both regression and classification, ensemble methods, such as AdaBoost or Gradient Boosting, can be used to combine the strengths of multiple models and enhance predictive performance
 
 # 9 - Model Evaluation:
 
