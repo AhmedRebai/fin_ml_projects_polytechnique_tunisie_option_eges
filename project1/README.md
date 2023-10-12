@@ -262,17 +262,17 @@ evaluate the performance of the machine learning models used for trading signal 
 
 ## For Regression Models (Predicting Continuous Variables):
 
-    Mean Absolute Error (MAE):
-        Role: MAE measures the average absolute difference between the predicted and actual values. It provides an indication of the magnitude of prediction errors.
-        Use Case: MAE is suitable for assessing models used to predict continuous financial metrics like stock prices or portfolio returns.
+* Mean Absolute Error (MAE):
+** Role: MAE measures the average absolute difference between the predicted and actual values. It provides an indication of the magnitude of prediction errors.
+** Use Case: MAE is suitable for assessing models used to predict continuous financial metrics like stock prices or portfolio returns.
 
-    Mean Squared Error (MSE):
-        Role: MSE calculates the average squared difference between predicted and actual values. It penalizes larger errors more than MAE.
-        Use Case: MSE is effective for quantifying the magnitude of errors in financial predictions.
+* Mean Squared Error (MSE):
+** Role: MSE calculates the average squared difference between predicted and actual values. It penalizes larger errors more than MAE.
+** Use Case: MSE is effective for quantifying the magnitude of errors in financial predictions.
 
-    Root Mean Squared Error (RMSE):
-        Role: RMSE is the square root of the MSE and provides a more interpretable measure of prediction errors. It has the same unit as the target variable.
-        Use Case: RMSE is commonly used in financial projects to express the prediction error in the same units as the financial metric being predicted.
+* Root Mean Squared Error (RMSE):
+** Role: RMSE is the square root of the MSE and provides a more interpretable measure of prediction errors. It has the same unit as the target variable.
+** Use Case: RMSE is commonly used in financial projects to express the prediction error in the same units as the financial metric being predicted.
 
 ## For Classification Models (Categorizing Outcomes):
 
