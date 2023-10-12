@@ -63,6 +63,18 @@ List the data you need for your project, such as historical Forex market data, c
 
 Show how to collect data for your project. You might want to provide Python code examples for data retrieval, using libraries like Pandas or APIs for financial data.
 
+![Capture d'écran 2023-10-12 161510](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/7923cd6e-1178-4ec3-9feb-bb75bb5ea6d5)
+
+![Capture d'écran 2023-10-12 161455](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/9bd88f77-5b1b-476b-be5f-3b1f618bbf4e)
+
+![Capture d'écran 2023-10-12 160044](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/e287282c-7c8c-4c82-9f47-43a5cf054d6c)
+
+![Capture d'écran 2023-10-12 160100](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/9bd16ee0-4a0a-4c69-a592-85d24510e2dd)
+
+
+
+
+
 # 5 - Data Understanding:
 
 Utilize econometric tools, time series analysis, and statistical tests to explore the data. Provide code examples for performing these tasks.
