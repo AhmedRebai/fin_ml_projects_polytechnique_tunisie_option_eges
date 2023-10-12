@@ -316,6 +316,10 @@ Explain how to integrate the machine learning models into a trading strategy. Pr
 
 Show how to backtest your trading strategies using the Backtrader library. Discuss the performance of your strategies.
 
+** Conduct extensive backtesting to assess the historical performance of the trading strategy. This helps in understanding how the strategy would have performed in the past and identifying potential issues.
+
+** Code Example (using a backtesting library, e.g., Backtrader):
+
 # 12 - Deployment with Flask and Dash-Plotly:
 
 Describe how to deploy your model and trading strategy using Flask and Dash-Plotly. This may include creating a web application for live trading or strategy monitoring.
