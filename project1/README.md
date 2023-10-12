@@ -75,9 +75,23 @@ Show how to collect data for your project. You might want to provide Python code
 
 
 
-# 5 - Data Understanding:
+# 5 - Data Understanding (for time series):
 
 Utilize econometric tools, time series analysis, and statistical tests to explore the data. Provide code examples for performing these tasks.
+
+* EDA on Financial Time Series
+* Features Extraction (an ensemble of important features for Beta Strategies)
+* Book about ARIMA model for time series
+* Implementation of the ADF statistical test (Augmented Dickey-Fuller)
+* Implementation of the statistical test (KPSS) Kwiatkowski-Phillips-Schmidt-Shin
+* Implementation of the Phillips-Perron (PP) statistical test
+* Checking for autocorrelation in residuals
+* Determine if there is heteroscedasticity in the error
+* Analysis of partial autocorrelations (ACF PACF)
+* Tail Risk Modeling (VaR , CVaR )
+* Examine seasonality in data (seasonal decomposion)
+* Identify trends and detect trend changes
+* Verification of the normality of the errors otherwise normalization of the errors
 
 # 6 - Data Preparation:
 
