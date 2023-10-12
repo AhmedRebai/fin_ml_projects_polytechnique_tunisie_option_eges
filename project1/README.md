@@ -189,6 +189,71 @@ Feature extraction transforms raw financial data into a set of informative featu
 
 Present the mathematical models you mentioned (multilinear regression, k-Nearest Neighbors, decision trees, random forests, XGBoost, deep learning with LSTM and transformers). Provide code examples for training and testing these models.
 
+n this phase of the project, we will delve into the application of various mathematical models to fulfill the objectives of the financial project. We will explore the role of each machine learning algorithm, both in regression and classification tasks, to aid in trading signal generation and portfolio optimization.
+Regression Models:
+
+Regression models are used to predict a continuous target variable, such as stock prices or returns. Here, we will discuss the role and application of specific algorithms in regression tasks.
+
+## 1. Multilinear Regression:
+
+* Role: Multilinear regression aims to establish a linear relationship between one or more predictor variables and the target variable. It can be used to model the influence of various features on financial metrics, such as predicting stock prices based on fundamental factors.
+
+## 2. k-Nearest Neighbors (KNN):
+
+* Role: KNN is often used for similarity-based regression. Given a new data point, it finds the k-nearest data points in the training set and calculates an average or weighted average of their target values. It can be applied to time series data for predicting future price movements based on historical patterns.
+
+##  3. Decision Trees:
+
+* Role: Decision trees can be used for regression tasks to create a hierarchical decision structure based on features. They can help identify optimal entry and exit points for trading based on historical price patterns.
+
+## 4. Random Forests:
+
+* Role: Random forests extend decision trees by creating an ensemble of decision trees. They are effective in reducing overfitting and can be applied to regression tasks, such as predicting stock returns, where multiple decision trees contribute to the prediction.
+
+## 5. XGBoost:
+
+* Role: XGBoost is a gradient boosting algorithm capable of regression tasks. It's particularly useful for modeling complex relationships between features and predicting financial metrics with high accuracy.
+
+## 6. Deep Learning with LSTM (Long Short-Term Memory):
+
+* Role: LSTM is a type of recurrent neural network (RNN) suitable for sequential data like time series. In financial applications, LSTMs can be used for time series forecasting, including predicting stock prices or portfolio returns over time.
+
+## 7. Transformers:
+
+* Role: Transformers are highly versatile models known for their performance in sequence-to-sequence tasks. In financial projects, transformers can be applied to tasks like volatility prediction, where capturing complex dependencies in financial time series data is essential.
+
+Classification Models:
+
+Classification models are used to predict categorical outcomes, such as whether to buy, sell, or hold a particular asset. Here, we will discuss the role and application of specific algorithms in classification tasks.
+
+1. k-Nearest Neighbors (KNN):
+
+    Role: KNN can be adapted for classification tasks by determining the most common class among the k-nearest neighbors. It can be used for sentiment analysis and market sentiment classification based on textual data.
+
+2. Decision Trees:
+
+    Role: Decision trees are valuable for classification tasks, such as categorizing assets into buy, sell, or hold classes based on technical and fundamental indicators.
+
+3. Random Forests:
+
+    Role: Random forests excel in classification tasks, particularly when dealing with imbalanced datasets. They can be used to classify assets into different investment categories or risk levels.
+
+4. XGBoost:
+
+    Role: XGBoost's classification capabilities make it a powerful tool for tasks like identifying market regimes or classifying trading signals into actionable categories.
+
+5. Deep Learning with LSTM (Long Short-Term Memory):
+
+    Role: LSTMs can be applied to sentiment analysis and market sentiment classification using textual data from news and social media sources.
+
+6. Transformers:
+
+    Role: Transformers can be employed for classification tasks involving market sentiment analysis and trend classification in financial time series data.
+
+7. Ensemble Methods:
+
+    Role: In both regression and classification, ensemble methods, such as AdaBoost or Gradient Boosting, can be used to combine the strengths of multiple models and enhance predictive performance
+
 # 9 - Model Evaluation:
 
 Describe the evaluation metrics you'll use to assess the performance of your models. Present results for each model, including accuracy, precision, recall, etc.
