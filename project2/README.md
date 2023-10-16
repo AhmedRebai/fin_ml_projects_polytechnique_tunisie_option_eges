@@ -22,12 +22,13 @@ In this section, we will delve into a comprehensive introduction of the project,
 Global Financial Markets Significance:
 
 We will emphasize the pivotal role that global financial markets play within the global economy. Our project is well-aligned with current market trends and is designed to cater to the growing demand for data-driven financial strategies.
-Financial Textual Data Collection:
 
-This segment will provide a thorough explanation of the data collection process. We will highlight the diversity of data sources, which includes an array of financial texts, and the specialized tools employed, including TextReveal®, for data extraction.
+Financial Textual Data Collection
+
 Project Goals:
 
 Our project's primary goals encompass empowering investors and financial decision-makers to make more informed and strategic choices. We also have secondary goals, including enhancing the efficiency of financial market operations through data-driven insights.
+
 Educational Value:
 
 In this section, we will underscore the educational aspects of our project. It serves as a valuable resource for those interested in understanding the practical application of NLP and LLM in the context of global financial markets.
