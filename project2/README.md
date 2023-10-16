@@ -39,7 +39,22 @@ We will provide detailed insights into the approach we've chosen for this projec
 We will specify the exact requirements of the textual data, including the volume of data needed, the desired quality standards, and the necessity for data diversity.
 # 4 - Financial Textual Data Collection:
 
-This section will elaborate on the precise data collection procedures we've implemented, including the use of TextReveal® for data extraction.
+This section will elaborate on the precise data collection procedures we've implemented, including the use of TextReveal® for data extraction. 
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/ad66fe1a-81b5-4e22-87e8-3c820415e527)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/ae2e48d3-c300-4f05-8c79-6be1d1ff60dd)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/c6b99d33-9574-4b3c-b7d2-6af117b939f4)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/3641b3b9-0eaf-4779-a7ba-8786ad68fa3f)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/cd3a7dbd-02fc-41c0-97ab-3147ed0dabc0)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/d87432ee-70d5-4d64-9425-63e80c860666)
+
+
+
 
 # 5 - Financial Textual Data Understanding:
 
