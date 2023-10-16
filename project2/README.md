@@ -69,6 +69,13 @@ This section will elaborate on the precise data collection procedures
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/9005d444-98ea-4105-b74c-2cf6e1fcb7c4)
 
+## Site TradingView (English site)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/ee856c26-7527-4d29-8c1e-4eaca1e8b1c4)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/5a0ec13b-8c18-4942-8e2d-536df18d881d)
+
+
 
 
 
