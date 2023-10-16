@@ -90,20 +90,13 @@ We will detail the process of feature engineering, an aspect that is critical fo
 
 This section will spotlight the significance of preprocessing steps, including text tokenization, stop-word removal, and other techniques. These steps are crucial to prepare textual data for effective analysis.
 
-## 4. Financial Textual Normalization and Scaling:
+## 4. Financial Textual Data Splitting:
 
-We will highlight the normalization and scaling methods applied to ensure that textual data is presented in a consistent format for analysis.
-
-## 5. Financial Textual Handling Categorical Data:
-
-This part will underscore the importance of handling categorical data within the textual dataset. Effective management of categorical data is essential for meaningful analysis.
-## 6. Financial Textual Data Splitting:
-
-We will emphasize the process by which the dataset is split into training, validation, and testing subsets. This ensures that our models are developed and evaluated effectively.
-## 7. Financial Textual Feature Selection:
+## 5. Financial Textual Feature Selection:
 
 We will detail the techniques used to select the most relevant features. Feature selection is crucial for optimizing model efficiency and interpretability.
-## 8. Financial Textual Data Quality Assurance:
+
+## 6. Financial Textual Data Quality Assurance:
 
 This section will underscore the importance of data quality assurance measures. These measures ensure that the data maintains its integrity throughout the analysis process.
 
