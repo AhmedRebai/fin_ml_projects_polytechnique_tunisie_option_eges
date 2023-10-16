@@ -39,7 +39,9 @@ We will provide detailed insights into the approach we've chosen for this projec
 We will specify the exact requirements of the textual data, including the volume of data needed, the desired quality standards, and the necessity for data diversity.
 # 4 - Financial Textual Data Collection:
 
-This section will elaborate on the precise data collection procedures we've implemented, including the use of TextReveal® for data extraction. 
+This section will elaborate on the precise data collection procedures
+
+## Site tradingeconomics.com (English site)
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/ad66fe1a-81b5-4e22-87e8-3c820415e527)
 
@@ -52,6 +54,18 @@ This section will elaborate on the precise data collection procedures we've impl
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/cd3a7dbd-02fc-41c0-97ab-3147ed0dabc0)
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/d87432ee-70d5-4d64-9425-63e80c860666)
+
+
+## Site Seeking Alpha (English site)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/a4063da5-3ae8-4e66-a749-7e4414c79964)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/a61eecb8-badc-47e1-8073-483549b111c5)
+
+## Site Boursorama https://www.boursorama.com/actualite-economique/economie/page-700 (French site)
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/9005d444-98ea-4105-b74c-2cf6e1fcb7c4)
+
 
 
 
