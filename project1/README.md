@@ -1,7 +1,7 @@
 # Steps of the project 1: Implementing a systematic strategy in the FX market (alpha signals research and dynamic diversification)
 
 
-In this project, we are collaborating with Value Digital Services, a leading provider of artificial intelligence solutions for the financial industry. Value Digital Services brings its cutting-edge artificial intelligence platform to train students from the Ecole Polytechnique de Tunisie.
+***In this project, we are collaborating with Value Digital Services, a leading provider of artificial intelligence solutions for the financial industry. Value Digital Services brings its cutting-edge artificial intelligence platform to train students from the Ecole Polytechnique de Tunisie.***
 
 We will follow the IBM Master plan methodology "The Foundational Methodology":
 
