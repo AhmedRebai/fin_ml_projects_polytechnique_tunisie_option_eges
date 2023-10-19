@@ -131,6 +131,8 @@ This part will explain any multilingual data translation techniques used to ensu
 
 This section will dive into the specific models and algorithms employed for the analysis, underlining their significance in deriving actionable insights.
 
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/f830eecb-73e8-4145-8b1c-860a159c9f31)
+
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/5f53f371-c390-4d71-aedf-c2eb67fa9652)
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/e893a640-daf6-4b45-882f-fc7c90692270)
