@@ -14,6 +14,10 @@ Our project's core mission is to empower asset managers, private equity firms, a
 
 
 # 1 - Business Understanding:
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/f86b0bf6-5057-492c-ab00-77a6de0843d1)
+
+
 Project Overview:
 
 In this section, we will delve into a comprehensive introduction of the project, laying out the project's objectives and its overall significance within the financial landscape. Our project has the potential to revolutionize the financial sector by applying cutting-edge technologies like NLP and LLM to address the challenges faced by asset managers and private equity firms.
