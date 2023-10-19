@@ -1,7 +1,5 @@
 # Steps of the project 2: NLP and LLM for Global Financial Markets
 
-***In this project, we are collaborating with Value Digital Services, a leading provider of artificial intelligence solutions for the financial industry. Value Digital Services brings its cutting-edge artificial intelligence platform to train students from the Ecole Polytechnique de Tunisie.***
-
 We will follow the IBM Master plan methodology "The Foundational Methodology":
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/1b2c0de7-05da-4872-8060-b5e1be3ca7b3)
