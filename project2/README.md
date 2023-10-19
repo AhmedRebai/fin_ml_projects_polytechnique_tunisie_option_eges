@@ -17,6 +17,9 @@ Our project's core mission is to empower asset managers, private equity firms, a
 
 ![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/3983b180-4bbe-4246-aded-12ebccb42690)
 
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/dce0ae69-5c0a-4eec-a0ab-a10f8daec642)
+
+
 
 Project Overview:
 
