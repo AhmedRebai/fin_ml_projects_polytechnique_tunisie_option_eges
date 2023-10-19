@@ -126,6 +126,9 @@ This part will explain any multilingual data translation techniques used to ensu
 
 This section will dive into the specific models and algorithms employed for the analysis, underlining their significance in deriving actionable insights.
 
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/e893a640-daf6-4b45-882f-fc7c90692270)
+
+
 # 9 - Financial Textual Model Evaluation:
 
 We will outline the rigorous criteria and metrics used to evaluate the model's performance, ensuring that the analysis is both accurate and effective.
