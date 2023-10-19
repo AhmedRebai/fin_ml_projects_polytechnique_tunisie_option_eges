@@ -117,9 +117,18 @@ This section will underscore the importance of data quality assurance measures. 
 Sentiment Analysis:
 
 We will describe the methodology used for sentiment analysis on financial textual data, illustrating how this analysis helps us understand market sentiment.
+
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/e0a733a1-4687-444b-867f-4235d6cf1006)
+
+
+
+
 Named Entity Recognition:
 
 This section will provide an in-depth explanation of the methods used for extracting named entities from the text, highlighting its importance in identifying key entities within financial texts.
+
+
+
 Summarization:
 
 We will emphasize the role of summarization techniques in condensing vast amounts of information into actionable insights.
