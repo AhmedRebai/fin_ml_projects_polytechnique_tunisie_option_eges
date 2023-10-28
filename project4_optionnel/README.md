@@ -13,6 +13,9 @@ The project begins with an extensive examination of the available data sources, 
 # Data Preparation:
 Data preparation is a critical step in this project. It involves cleaning and preprocessing the data to ensure its quality and suitability for predictive modeling. This includes handling missing values, encoding categorical variables, and scaling or transforming features as necessary.
 
+![home_credit](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/b63f8100-a11b-4595-8610-2b875b9780e3)
+
+
 # Modeling:
 The modeling phase focuses on building and refining predictive models using statistical and machine learning techniques. Various algorithms are explored, and the most suitable models are identified based on their performance metrics, such as accuracy, precision, recall, and AUC-ROC. The models aim to predict whether loan applicants are capable of repaying loans, which is vital for minimizing default risk.
 
