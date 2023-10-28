@@ -4,6 +4,9 @@ The Home Credit Default Risk project, conducted by the bank's risk department, l
 # Business Understanding:
 Many individuals face difficulties in obtaining loans due to their limited or non-existent credit histories, making them vulnerable to predatory lenders. Home Credit Group is committed to expanding financial inclusion for this underserved population by ensuring a positive and secure borrowing experience. To achieve this, Home Credit utilizes a wide range of alternative data sources, such as telecommunications and transactional information, to forecast the repayment capabilities of their clients. While the organization already employs various statistical and machine learning techniques, they have invited Kagglers to enhance their predictive models, thus ensuring that deserving clients are not denied loans, and that loans are offered with terms conducive to client success.
 
+![image](https://github.com/AhmedRebai/fin_ml_projects_polytechnique_tunisie_option_eges/assets/13001763/669e26b8-e7ca-4968-96a8-91b62d2ae427)
+
+
 # Data Understanding:
 The project begins with an extensive examination of the available data sources, which include telco and transactional information. Data scientists must gain a comprehensive understanding of the data's structure, quality, and relevance to the problem. Exploratory data analysis is performed to uncover patterns, anomalies, and potential predictors of credit default risk.
 
